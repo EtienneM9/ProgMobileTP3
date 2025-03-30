@@ -1,0 +1,342 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.12.0] /home/etienne/.gradle/caches/transforms-4/3761067cf09d134983e0063f275e30c4/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.6.1] /home/etienne/.gradle/caches/transforms-4/d33ee3b10b6fc5ea336ebecc4f350018/transformed/room-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/etienne/.gradle/caches/transforms-4/fcc03b4a4da22d16aaea48d058b5aa96/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/etienne/.gradle/caches/transforms-4/a5b5525835d9afd317a1951bbe858452/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/etienne/.gradle/caches/transforms-4/6dda5d3ff608883c6f71b04456490a53/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /home/etienne/.gradle/caches/transforms-4/d99525e8214bada0869fe905e6c9da73/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/etienne/.gradle/caches/transforms-4/fa4d7f85cefdb983b1a90ea313b075cd/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.6.2] /home/etienne/.gradle/caches/transforms-4/799e22dfa6a0d85458942f4319b663a8/transformed/fragment-1.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] /home/etienne/.gradle/caches/transforms-4/75ed045f19a968b578ed05edd5b9fccf/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] /home/etienne/.gradle/caches/transforms-4/986d695522518ffa0ac733b95a7f1634/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/etienne/.gradle/caches/transforms-4/eb6b01b248a42c1a2af2b8007e4e0109/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /home/etienne/.gradle/caches/transforms-4/508b1fc52e39180e47f67c6231997473/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/etienne/.gradle/caches/transforms-4/56b955662f5970a697a8f17ade52bc77/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/etienne/.gradle/caches/transforms-4/4171ad43df7940599adc8794ead17cea/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/etienne/.gradle/caches/transforms-4/2feb05a953adb6510afabdf0230483fa/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/etienne/.gradle/caches/transforms-4/36b11015a371cf23168c891acdb07599/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/etienne/.gradle/caches/transforms-4/75a705a514d2deddd6c502b95adbd78b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/etienne/.gradle/caches/transforms-4/7c363885836112440b0d6ef4c888de54/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/etienne/.gradle/caches/transforms-4/801e678c9b9aaf07ffa0b6dc55c23587/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/etienne/.gradle/caches/transforms-4/7adce25c4625abd09cd801655b6b20c7/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/etienne/.gradle/caches/transforms-4/d350f0f1a3722dd54638299d5173c9ed/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/etienne/.gradle/caches/transforms-4/5e2e8070e8eb1b15a102e47e25b525fe/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/etienne/.gradle/caches/transforms-4/46fa73ab6cacfc023ba002d189b970a8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/etienne/.gradle/caches/transforms-4/3b631b20eb8e66e593308be8c8e2af3e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/etienne/.gradle/caches/transforms-4/e80d1a36f138cb9d55953cafd60b8412/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/etienne/.gradle/caches/transforms-4/1799b6ba348beb1face073919851e58d/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/etienne/.gradle/caches/transforms-4/122800951c5a6209103e994f885a4e6f/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/etienne/.gradle/caches/transforms-4/24be10d36b4a328f97799d6361a1f381/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/etienne/.gradle/caches/transforms-4/894c5de5ac7d51000f9e42beea0f029f/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/etienne/.gradle/caches/transforms-4/fa8adaea4bca5a9fedbb628daf54b85f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/etienne/.gradle/caches/transforms-4/d228a428f8c7b542001ba83533e4cc88/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/etienne/.gradle/caches/transforms-4/5836789899fe084bc937dd93c76f7a1d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/etienne/.gradle/caches/transforms-4/5b64bb07c1ac76d67f933daf0bb18ce1/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /home/etienne/.gradle/caches/transforms-4/43d7cfe041931588f367cae890900ab3/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /home/etienne/.gradle/caches/transforms-4/6a7312ab2a692b7cbcc3b2bb91148266/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/etienne/.gradle/caches/transforms-4/45439546b135aa4ac61e2f5245621f5c/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/etienne/.gradle/caches/transforms-4/f227ee317d58244d148ec49f1cc26e3b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/etienne/.gradle/caches/transforms-4/cb1d55b38849a69e34a78f48b9d7161c/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/etienne/.gradle/caches/transforms-4/5ffa948661c6542dcf932f604125023f/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/etienne/.gradle/caches/transforms-4/d50944fcdc3bddb5c134b9a34cb45bb4/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/etienne/.gradle/caches/transforms-4/6692b251fa4e183992866c139c29b721/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/etienne/.gradle/caches/transforms-4/e6b89585f1b03decce01a79f20b4cb4c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/etienne/.gradle/caches/transforms-4/fab7d0e26ef38a1f1ef58e07289cfe82/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/etienne/.gradle/caches/transforms-4/30ddb03c3d85aaa1c6858403d4025b1e/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/etienne/.gradle/caches/transforms-4/8851ec26aff54db0c6d3a385d574554c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/etienne/.gradle/caches/transforms-4/940c974c5dda934da8cdeec5c5858800/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:5:5-25:19
+INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.google.android.material:material:1.12.0] /home/etienne/.gradle/caches/transforms-4/3761067cf09d134983e0063f275e30c4/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/etienne/.gradle/caches/transforms-4/3761067cf09d134983e0063f275e30c4/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/etienne/.gradle/caches/transforms-4/a5b5525835d9afd317a1951bbe858452/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/etienne/.gradle/caches/transforms-4/a5b5525835d9afd317a1951bbe858452/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/etienne/.gradle/caches/transforms-4/6692b251fa4e183992866c139c29b721/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/etienne/.gradle/caches/transforms-4/6692b251fa4e183992866c139c29b721/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/etienne/.gradle/caches/transforms-4/e6b89585f1b03decce01a79f20b4cb4c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/etienne/.gradle/caches/transforms-4/e6b89585f1b03decce01a79f20b4cb4c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:13:9-49
+	android:dataExtractionRules
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.example.persistence.activities.FirstActivity
+ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:16:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.persistence.activities.PlanningActivity
+ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:24:9-88
+	android:exported
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:24:63-86
+	android:name
+		ADDED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml:24:19-62
+uses-sdk
+INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml
+INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] /home/etienne/.gradle/caches/transforms-4/3761067cf09d134983e0063f275e30c4/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/etienne/.gradle/caches/transforms-4/3761067cf09d134983e0063f275e30c4/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /home/etienne/.gradle/caches/transforms-4/d33ee3b10b6fc5ea336ebecc4f350018/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] /home/etienne/.gradle/caches/transforms-4/d33ee3b10b6fc5ea336ebecc4f350018/transformed/room-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/etienne/.gradle/caches/transforms-4/fcc03b4a4da22d16aaea48d058b5aa96/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/etienne/.gradle/caches/transforms-4/fcc03b4a4da22d16aaea48d058b5aa96/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/etienne/.gradle/caches/transforms-4/a5b5525835d9afd317a1951bbe858452/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/etienne/.gradle/caches/transforms-4/a5b5525835d9afd317a1951bbe858452/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/etienne/.gradle/caches/transforms-4/6dda5d3ff608883c6f71b04456490a53/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/etienne/.gradle/caches/transforms-4/6dda5d3ff608883c6f71b04456490a53/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /home/etienne/.gradle/caches/transforms-4/d99525e8214bada0869fe905e6c9da73/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] /home/etienne/.gradle/caches/transforms-4/d99525e8214bada0869fe905e6c9da73/transformed/fragment-ktx-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/etienne/.gradle/caches/transforms-4/fa4d7f85cefdb983b1a90ea313b075cd/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/etienne/.gradle/caches/transforms-4/fa4d7f85cefdb983b1a90ea313b075cd/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.6.2] /home/etienne/.gradle/caches/transforms-4/799e22dfa6a0d85458942f4319b663a8/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] /home/etienne/.gradle/caches/transforms-4/799e22dfa6a0d85458942f4319b663a8/transformed/fragment-1.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /home/etienne/.gradle/caches/transforms-4/75ed045f19a968b578ed05edd5b9fccf/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /home/etienne/.gradle/caches/transforms-4/75ed045f19a968b578ed05edd5b9fccf/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/etienne/.gradle/caches/transforms-4/986d695522518ffa0ac733b95a7f1634/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/etienne/.gradle/caches/transforms-4/986d695522518ffa0ac733b95a7f1634/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/etienne/.gradle/caches/transforms-4/eb6b01b248a42c1a2af2b8007e4e0109/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/etienne/.gradle/caches/transforms-4/eb6b01b248a42c1a2af2b8007e4e0109/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/etienne/.gradle/caches/transforms-4/508b1fc52e39180e47f67c6231997473/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /home/etienne/.gradle/caches/transforms-4/508b1fc52e39180e47f67c6231997473/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/etienne/.gradle/caches/transforms-4/56b955662f5970a697a8f17ade52bc77/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/etienne/.gradle/caches/transforms-4/56b955662f5970a697a8f17ade52bc77/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/etienne/.gradle/caches/transforms-4/4171ad43df7940599adc8794ead17cea/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/etienne/.gradle/caches/transforms-4/4171ad43df7940599adc8794ead17cea/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/etienne/.gradle/caches/transforms-4/2feb05a953adb6510afabdf0230483fa/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/etienne/.gradle/caches/transforms-4/2feb05a953adb6510afabdf0230483fa/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/etienne/.gradle/caches/transforms-4/36b11015a371cf23168c891acdb07599/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/etienne/.gradle/caches/transforms-4/36b11015a371cf23168c891acdb07599/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/etienne/.gradle/caches/transforms-4/75a705a514d2deddd6c502b95adbd78b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/etienne/.gradle/caches/transforms-4/75a705a514d2deddd6c502b95adbd78b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/etienne/.gradle/caches/transforms-4/7c363885836112440b0d6ef4c888de54/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/etienne/.gradle/caches/transforms-4/7c363885836112440b0d6ef4c888de54/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/etienne/.gradle/caches/transforms-4/801e678c9b9aaf07ffa0b6dc55c23587/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/etienne/.gradle/caches/transforms-4/801e678c9b9aaf07ffa0b6dc55c23587/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/etienne/.gradle/caches/transforms-4/7adce25c4625abd09cd801655b6b20c7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/etienne/.gradle/caches/transforms-4/7adce25c4625abd09cd801655b6b20c7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/etienne/.gradle/caches/transforms-4/d350f0f1a3722dd54638299d5173c9ed/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/etienne/.gradle/caches/transforms-4/d350f0f1a3722dd54638299d5173c9ed/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/etienne/.gradle/caches/transforms-4/5e2e8070e8eb1b15a102e47e25b525fe/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/etienne/.gradle/caches/transforms-4/5e2e8070e8eb1b15a102e47e25b525fe/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/etienne/.gradle/caches/transforms-4/46fa73ab6cacfc023ba002d189b970a8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/etienne/.gradle/caches/transforms-4/46fa73ab6cacfc023ba002d189b970a8/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/etienne/.gradle/caches/transforms-4/3b631b20eb8e66e593308be8c8e2af3e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/etienne/.gradle/caches/transforms-4/3b631b20eb8e66e593308be8c8e2af3e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/etienne/.gradle/caches/transforms-4/e80d1a36f138cb9d55953cafd60b8412/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/etienne/.gradle/caches/transforms-4/e80d1a36f138cb9d55953cafd60b8412/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/etienne/.gradle/caches/transforms-4/1799b6ba348beb1face073919851e58d/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/etienne/.gradle/caches/transforms-4/1799b6ba348beb1face073919851e58d/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/etienne/.gradle/caches/transforms-4/122800951c5a6209103e994f885a4e6f/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/etienne/.gradle/caches/transforms-4/122800951c5a6209103e994f885a4e6f/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/etienne/.gradle/caches/transforms-4/24be10d36b4a328f97799d6361a1f381/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/etienne/.gradle/caches/transforms-4/24be10d36b4a328f97799d6361a1f381/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/etienne/.gradle/caches/transforms-4/894c5de5ac7d51000f9e42beea0f029f/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/etienne/.gradle/caches/transforms-4/894c5de5ac7d51000f9e42beea0f029f/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/etienne/.gradle/caches/transforms-4/fa8adaea4bca5a9fedbb628daf54b85f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/etienne/.gradle/caches/transforms-4/fa8adaea4bca5a9fedbb628daf54b85f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/etienne/.gradle/caches/transforms-4/d228a428f8c7b542001ba83533e4cc88/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/etienne/.gradle/caches/transforms-4/d228a428f8c7b542001ba83533e4cc88/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/etienne/.gradle/caches/transforms-4/5836789899fe084bc937dd93c76f7a1d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/etienne/.gradle/caches/transforms-4/5836789899fe084bc937dd93c76f7a1d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/etienne/.gradle/caches/transforms-4/5b64bb07c1ac76d67f933daf0bb18ce1/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/etienne/.gradle/caches/transforms-4/5b64bb07c1ac76d67f933daf0bb18ce1/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /home/etienne/.gradle/caches/transforms-4/43d7cfe041931588f367cae890900ab3/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /home/etienne/.gradle/caches/transforms-4/43d7cfe041931588f367cae890900ab3/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /home/etienne/.gradle/caches/transforms-4/6a7312ab2a692b7cbcc3b2bb91148266/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /home/etienne/.gradle/caches/transforms-4/6a7312ab2a692b7cbcc3b2bb91148266/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/etienne/.gradle/caches/transforms-4/45439546b135aa4ac61e2f5245621f5c/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/etienne/.gradle/caches/transforms-4/45439546b135aa4ac61e2f5245621f5c/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/etienne/.gradle/caches/transforms-4/f227ee317d58244d148ec49f1cc26e3b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/etienne/.gradle/caches/transforms-4/f227ee317d58244d148ec49f1cc26e3b/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/etienne/.gradle/caches/transforms-4/cb1d55b38849a69e34a78f48b9d7161c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/etienne/.gradle/caches/transforms-4/cb1d55b38849a69e34a78f48b9d7161c/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/etienne/.gradle/caches/transforms-4/5ffa948661c6542dcf932f604125023f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/etienne/.gradle/caches/transforms-4/5ffa948661c6542dcf932f604125023f/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/etienne/.gradle/caches/transforms-4/d50944fcdc3bddb5c134b9a34cb45bb4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/etienne/.gradle/caches/transforms-4/d50944fcdc3bddb5c134b9a34cb45bb4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/etienne/.gradle/caches/transforms-4/6692b251fa4e183992866c139c29b721/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/etienne/.gradle/caches/transforms-4/6692b251fa4e183992866c139c29b721/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/etienne/.gradle/caches/transforms-4/e6b89585f1b03decce01a79f20b4cb4c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/etienne/.gradle/caches/transforms-4/e6b89585f1b03decce01a79f20b4cb4c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/etienne/.gradle/caches/transforms-4/fab7d0e26ef38a1f1ef58e07289cfe82/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/etienne/.gradle/caches/transforms-4/fab7d0e26ef38a1f1ef58e07289cfe82/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/etienne/.gradle/caches/transforms-4/30ddb03c3d85aaa1c6858403d4025b1e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/etienne/.gradle/caches/transforms-4/30ddb03c3d85aaa1c6858403d4025b1e/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/etienne/.gradle/caches/transforms-4/8851ec26aff54db0c6d3a385d574554c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/etienne/.gradle/caches/transforms-4/8851ec26aff54db0c6d3a385d574554c/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/etienne/.gradle/caches/transforms-4/940c974c5dda934da8cdeec5c5858800/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/etienne/.gradle/caches/transforms-4/940c974c5dda934da8cdeec5c5858800/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] /home/etienne/.gradle/caches/transforms-4/2f9830b1315ad29ee17696a9cf0ced33/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/etienne/.gradle/caches/transforms-4/e6b89585f1b03decce01a79f20b4cb4c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/etienne/.gradle/caches/transforms-4/e6b89585f1b03decce01a79f20b4cb4c/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/etienne/.gradle/caches/transforms-4/617d79c698bb090fce1ed6acfdb6f01c/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.example.persistence.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.persistence.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /home/etienne/.gradle/caches/transforms-4/28727ffc5feeb36dbfc2d0f6512da5ce/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/etienne/.gradle/caches/transforms-4/1f44569635528b4324f878eaa2f4ebaf/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/etienne/.gradle/caches/transforms-4/acd681a06fe2a23c8ef51d1e18abd7bc/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Persistence</string>
+    <string name="birthdate_hint">Date de naissance</string>
+    <string name="cancel_button">Annuler</string>
+    <string name="confirm_signup">Je m\'inscrit !</string>
+    <string name="confirm_title">Etes-vous sûr des infos ?</string>
+    <string name="consult_title">Planning du jour :</string>
+    <string name="create_title">Créer votre planning</string>
+    <string name="first_hour">08h-10h</string>
+    <string name="firstname_hint">Prenom</string>
+    <string name="fourth_hour">14h-16h</string>
+    <string name="gaming_chip">Gaming</string>
+    <string name="interests_hint">Interêts</string>
+    <string name="lastname_hint">Nom</string>
+    <string name="login_hint">Identifiant</string>
+    <string name="login_title">Connexion</string>
+    <string name="mail_hint">Adresse mail</string>
+    <string name="movie_chip">Film</string>
+    <string name="music_chip">Musique</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="phone_hint">N° de telephone</string>
+    <string name="reading_chip">Lecture</string>
+    <string name="second_hour">10h-12h</string>
+    <string name="signup_title">Inscription</string>
+    <string name="sport_chip">Sport</string>
+    <string name="submit_button">Valider</string>
+    <string name="switch_to_login">Vous avez déjà un compte ?</string>
+    <string name="switch_to_signup">Vous n\'avez pas de compte ?</string>
+    <string name="third_hour">12h-14h</string>
+    <style name="Theme.Persistence" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
