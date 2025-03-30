@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
+    <color name="blue_primary">#FF2196F3</color>
+    <color name="blue_primary_variant">#FF1976D2</color>
+    <color name="dark_background">#FF121212</color>
+    <color name="dark_surface">#FF1E1E1E</color>
+    <color name="dark_surface_light">#FF2D2D2D</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -35,17 +40,88 @@
     <string name="switch_to_login">Vous avez déjà un compte ?</string>
     <string name="switch_to_signup">Vous n\'avez pas de compte ?</string>
     <string name="third_hour">12h-14h</string>
+    <style name="CardContainer" parent="ContainerBase">
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:background">@drawable/rounded_container_bg</item>
+    </style>
+    <style name="ChipGroupStyle" parent="Widget.Material3.ChipGroup">
+        <item name="android:padding">8dp</item>
+        <item name="chipSpacingHorizontal">8dp</item>
+        <item name="chipSpacingVertical">8dp</item>
+    </style>
+    <style name="ChipStyle" parent="Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">?attr/colorSurface</item>
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="chipStrokeColor">?attr/colorPrimary</item>
+        <item name="chipStrokeWidth">1dp</item>
+        <item name="checkedIconTint">?attr/colorPrimary</item>
+    </style>
+    <style name="ContainerBase">
+        <item name="android:background">?attr/colorSurface</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:padding">16dp</item>
+    </style>
+    <style name="ExtendedFAB" parent="ShapeAppearanceOverlay.Material3.FloatingActionButton">
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="backgroundTint">?attr/colorPrimary</item>
+        <item name="elevation">6dp</item>
+    </style>
+    <style name="PlanningSlot" parent="TextViewBase">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:background">@drawable/rounded_container_bg</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+    <style name="ShapeAppearance.Persistence.LargeComponent" parent="ShapeAppearance.Material3.LargeComponent">
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="ShapeAppearance.Persistence.MediumComponent" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="ShapeAppearance.Persistence.SmallComponent" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerSize">8dp</item>
+    </style>
+    <style name="TextViewBase" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="TextViewConfirm" parent="TextViewBase">
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginVertical">10dp</item>
+    </style>
+    <style name="TextViewLink" parent="TextViewBase">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">?attr/colorPrimary</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+    <style name="TextViewTitle" parent="TextViewBase">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
     <style name="Theme.Persistence" parent="Theme.Material3.DayNight.NoActionBar">
         
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorPrimary">@color/blue_primary</item>
+        <item name="colorPrimaryVariant">@color/blue_primary_variant</item>
         <item name="colorOnPrimary">@color/white</item>
         
-        <item name="colorSecondary">@color/teal_200</item>
-        <item name="colorSecondaryVariant">@color/teal_700</item>
-        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondary">@color/blue_primary</item>
+        <item name="colorSecondaryVariant">@color/blue_primary_variant</item>
+        <item name="colorOnSecondary">@color/white</item>
         
-        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
         
+        <item name="android:statusBarColor">@color/blue_primary_variant</item>
+        
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Persistence.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.Persistence.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.Persistence.LargeComponent</item>
     </style>
 </resources>

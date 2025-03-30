@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base text styles -->
+    <style name="TextViewBase" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <style name="TextViewTitle" parent="TextViewBase">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TextViewLink" parent="TextViewBase">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">?attr/colorPrimary</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="TextViewConfirm" parent="TextViewBase">
+        <item name="android:textSize">20sp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginVertical">10dp</item>
+    </style>
+
+    <!-- Container styles -->
+    <style name="ContainerBase">
+        <item name="android:background">?attr/colorSurface</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="CardContainer" parent="ContainerBase">
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:background">@drawable/rounded_container_bg</item>
+    </style>
+
+    <!-- Button styles -->
+    <style name="ExtendedFAB" parent="ShapeAppearanceOverlay.Material3.FloatingActionButton">
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+        <item name="backgroundTint">?attr/colorPrimary</item>
+        <item name="elevation">6dp</item>
+    </style>
+
+    <!-- Chip styles -->
+    <style name="ChipGroupStyle" parent="Widget.Material3.ChipGroup">
+        <item name="android:padding">8dp</item>
+        <item name="chipSpacingHorizontal">8dp</item>
+        <item name="chipSpacingVertical">8dp</item>
+    </style>
+
+    <style name="ChipStyle" parent="Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">?attr/colorSurface</item>
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="chipStrokeColor">?attr/colorPrimary</item>
+        <item name="chipStrokeWidth">1dp</item>
+        <item name="checkedIconTint">?attr/colorPrimary</item>
+    </style>
+
+    <!-- Planning slot style -->
+    <style name="PlanningSlot" parent="TextViewBase">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:background">@drawable/rounded_container_bg</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+</resources>

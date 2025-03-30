@@ -1,6 +1,11 @@
 R_DEF: Internal format may change without notice
 local
 color black
+color blue_primary
+color blue_primary_variant
+color dark_background
+color dark_surface
+color dark_surface_light
 color purple_200
 color purple_500
 color purple_700
@@ -9,6 +14,7 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable rounded_container_bg
 id birthdate
 id birthdate_confirm
 id chipGroup
@@ -93,6 +99,19 @@ string submit_button
 string switch_to_login
 string switch_to_signup
 string third_hour
+style CardContainer
+style ChipGroupStyle
+style ChipStyle
+style ContainerBase
+style ExtendedFAB
+style PlanningSlot
+style ShapeAppearance.Persistence.LargeComponent
+style ShapeAppearance.Persistence.MediumComponent
+style ShapeAppearance.Persistence.SmallComponent
+style TextViewBase
+style TextViewConfirm
+style TextViewLink
+style TextViewTitle
 style Theme.Persistence
 xml backup_rules
 xml data_extraction_rules

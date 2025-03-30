@@ -4,18 +4,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/create_planning_layout"
-    android:layout_marginTop="20dp">
+    android:layout_marginTop="20dp"
+    style="@style/CardContainer">
 
     <TextView
         android:id="@+id/title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/create_title"
-        android:textSize="32sp"
-        android:textStyle="bold"
-        android:gravity="center"
-        android:padding="8dp"
         android:layout_marginBottom="50dp"
+        style="@style/TextViewTitle"
         />
 
     <include
@@ -43,6 +41,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="35dp"
         android:enabled="false"
+        style="@style/ExtendedFAB"
         />
 
 </LinearLayout>

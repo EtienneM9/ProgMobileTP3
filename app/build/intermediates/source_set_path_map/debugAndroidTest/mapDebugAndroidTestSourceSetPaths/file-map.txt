@@ -1,0 +1,5 @@
+com.example.persistence.test.app-core-1.6.1-0 /home/etienne/.gradle/caches/transforms-4/7c0ef10cb2354d42e40b89f837ca8cf7/transformed/core-1.6.1/res
+com.example.persistence.test.app-androidTest-1 /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/build/generated/res/resValues/androidTest/debug
+com.example.persistence.test.app-mergeDebugAndroidTestResources-2 /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.persistence.test.app-mergeDebugAndroidTestResources-3 /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.persistence.test.app-debugAndroidTest-4 /home/etienne/Bureau/M1/S2/ProgMobile/finaltp3/prog_mobile/TP3/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
